@@ -1,8 +1,10 @@
 ### Hi there, I'm Yash 👋
 
-〽️I am a Freshman at the University of Michigan's College of Engineering
+〽️ I'm a Freshman at the University of Michigan's College of Engineering
 
-💻I am a prospective Computer Science Major
+💻 I'm a prospective Computer Science Major
+
+💡 I'm currently working on building a personal website using HTML/CSS/JavaScript
 
 📫 You can reach me at potdukhe@umich.edu
 
