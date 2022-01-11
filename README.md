@@ -11,6 +11,7 @@
 🏀 Fun fact: I love all things basketball
 
 [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashpotdukhe)](https://github.com/yashpotdukhe/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 <!--
 **YashPotdukhe/yashpotdukhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
