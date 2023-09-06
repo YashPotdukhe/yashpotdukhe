@@ -4,7 +4,7 @@
 
 💻 I'm a Computer Science Major
 
-💡 I'm pursuing a minor in Math & UX Design
+💡 I'm pursuing a minor in Mathematics
 
 📫 You can reach me at potdukhe@umich.edu
 
